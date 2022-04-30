@@ -8,3 +8,7 @@ There are no collaborations in this project. I took it upon myself to make a you
 
 # Tech Stack Used
 I used HTML, CSS, Javascript and Bootstrap to create this website. I also used the API provided by the google.
+
+# Some Snaps from my Clone
+![Screenshot (193)](https://user-images.githubusercontent.com/81103012/166098070-c35c938d-7d59-40d7-935a-caefef75c03d.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/81103012/166098071-70d4f7cc-c05d-4be6-a6dd-170c2a3404dc.png)
